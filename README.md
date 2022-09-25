@@ -3,7 +3,7 @@ Automated dmoney API using Postman where test cases are added for Login,Creating
 
 This is the Postman Documentation link: https://documenter.getpostman.com/view/22662032/2s83RziaMD
 
-This is All Test Case link: https://docs.google.com/spreadsheets/d/1vYasD02_uiCsfpxZEuINFTh8_19340BPj_ttNYQkP_w/edit?usp=sharing
+This is All Test Cases link: https://docs.google.com/spreadsheets/d/1vYasD02_uiCsfpxZEuINFTh8_19340BPj_ttNYQkP_w/edit?usp=sharing
 
 This is Bug and Improvement report link: https://docs.google.com/spreadsheets/d/1_6sLfrLKALGEP0rwNhg0cgEJrjoigtQD_yRHJJW1u8U/edit?usp=sharing
 
