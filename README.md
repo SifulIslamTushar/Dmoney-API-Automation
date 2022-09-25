@@ -31,7 +31,7 @@ This is Bug and Improvement report link: https://docs.google.com/spreadsheets/d/
 ## Output
 - ***Test Summary***
 ![Newman_report](https://user-images.githubusercontent.com/40294642/192163508-887ee9de-eaed-49e7-9c9b-1864f4fba797.png)
-- ***Test Case***
+- ***All Test Case***
 ![Newman_report1](https://user-images.githubusercontent.com/40294642/192163517-c2d3157b-120d-4fa7-a192-04aaa09896fd.png)
 - ***Negative Test Caase***
 ![Newman_report2](https://user-images.githubusercontent.com/40294642/192163527-d41cba81-cbdf-404d-abe6-e76ce8e7ed78.png)
